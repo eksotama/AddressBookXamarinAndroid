@@ -5,15 +5,6 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{73F33C0E-1117-48EF-928E-68435D428906}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScreenShots", "ScreenShots", "{0A674F91-FA83-4A2A-9F49-94C3E844F2CA}"
-	ProjectSection(SolutionItems) = preProject
-		..\ScreenShots\AddContact.jpg = ..\ScreenShots\AddContact.jpg
-		..\ScreenShots\EditContact.jpg = ..\ScreenShots\EditContact.jpg
-		..\ScreenShots\List.jpg = ..\ScreenShots\List.jpg
-		..\ScreenShots\SearchContact.jpg = ..\ScreenShots\SearchContact.jpg
-		..\ScreenShots\SplashScreen.jpg = ..\ScreenShots\SplashScreen.jpg
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
